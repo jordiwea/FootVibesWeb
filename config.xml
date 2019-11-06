@@ -4,5 +4,5 @@
 <author email="jordimedina666@gmail.com"> Jorge Medina </author>
 <access origin="*"/>
 <plugin name="cordova-plugin-whitelist"/>
-<icon src="icon.png"/>
+<icon src="pruebalogofootvibes.png"/>
 </widget>
