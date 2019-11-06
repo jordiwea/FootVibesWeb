@@ -1,0 +1,97 @@
+* {
+    margin:                 0px;
+    padding:                0px;
+   
+}
+
+body {
+    background-color: black;
+    margin: auto;
+    
+}
+
+#page {
+    width:                 960px;
+    margin-top:              0px;
+    margin-bottom:           0px;
+    margin-right:           auto;
+    margin-left:           auto;
+    text-align:             left;
+   
+}
+
+#header{
+    margin:                  0px 15px 0px 0px;
+    padding:                             35px;
+    text-align:                        center;
+    background-image:   url("imgs/logo2.png");
+    background-color:                darkslategray;
+    color:                          white;
+    background-repeat:              no-repeat;
+    font-family:                      verdana;
+    border:                 2px solid white;
+    background-repeat:              no-repeat;
+    background-position:             top left;
+}
+
+h1 {
+}
+
+#nav {
+    margin:                  0px 15px 0px 0px;
+    padding: 30px;
+    font-family:         courier;
+    font-size:             1.4em;
+    text-align:           center;
+    background-color:     lightslategray;
+    border:                 2px solid white;
+
+}
+
+#nav li{
+    margin:                  0px 100px 0px 100px;
+    list-style:              none;
+    display:         inline-block;
+    text-align:            center;
+}
+
+a {
+    font-size: 1.5em;
+    text-decoration:        none;
+}
+a:link {
+    color:               blue;
+}
+a:visited {
+    color:               darkgreen;
+}
+
+a:hover{
+    color:                green;   
+}
+a:active {
+    color:               white;
+}
+
+#content {
+    margin:                  10px 15px 0px 0px;
+    background-color:       lightgray;
+    font-size:                    1.5em;
+    border:                 2px solid white;
+    text-align: center;
+    padding: 50px;
+}
+
+
+.article {
+}
+
+.article_header {
+    border-bottom: 1px solid #999999;
+}
+
+#footer {
+    text-align: center;
+    color: white;
+    padding-top: 1.5em;
+}
