@@ -20,7 +20,6 @@ body {
 }
 
 #header{
-    margin:                  0px 15px 0px 0px;
     padding:                             35px;
     text-align:                        center;
     background-image:   url("imgs/logo2.png");
@@ -37,7 +36,6 @@ h1 {
 }
 
 #nav {
-    margin:                  0px 15px 0px 0px;
     padding: 30px;
     font-family:         courier;
     font-size:             1.4em;
@@ -73,7 +71,7 @@ a:active {
 }
 
 #content {
-    margin:                  10px 15px 0px 0px;
+    margin:                  10px 0px 0px 0px;
     background-color:       lightgray;
     font-size:                    1.5em;
     border:                 2px solid white;
