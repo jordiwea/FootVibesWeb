@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.footvibes" versionCode="1" version="0.0.1">
 <name>FootVibes</name>
 <description> App to see the product for HACKATHON</description>
-<author email="jordimedina666@gmail.com"> Jorge Medina </author>
+<author email="jordimedina666@gmail.com"> Jorge Medinaa </author>
 <access origin="*"/>
 <plugin name="cordova-plugin-whitelist"/>
 <icon src="pruebalogofootvibes.png"/>
